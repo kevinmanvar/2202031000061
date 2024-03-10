@@ -1,0 +1,763 @@
+.footer-inner {
+  background-color: var(--color-aliceblue-100);
+  width: 1593px;
+  height: 606px;
+}
+.footer-inner,
+.your-logo2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.we-earned-a1 {
+  margin: 0;
+}
+.we-earned-a-container1 {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  font-size: var(--font-size-mini);
+}
+.your-logo-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 406px;
+  height: 124px;
+}
+.location1 {
+  position: absolute;
+  top: 4px;
+  left: 0;
+}
+.gujarat-india-35001 {
+  position: absolute;
+  top: 0;
+  left: 41px;
+  font-family: var(--font-poppins);
+}
+.location-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 195px;
+  height: 23px;
+}
+.div9,
+.group-child8 {
+  position: absolute;
+  top: 30px;
+  left: 0;
+}
+.group-child8 {
+  top: 25.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 238px;
+  height: 1px;
+}
+.kevinmanvargmailcom-group {
+  position: absolute;
+  top: 39px;
+  left: 0;
+  width: 237px;
+  height: 53px;
+  font-family: var(--font-poppins);
+}
+.facebook-instagram-twitter1 {
+  position: absolute;
+  top: 108px;
+  left: 0;
+  font-family: var(--font-font-awesome-5-brands);
+  color: var(--color-black);
+  white-space: pre-wrap;
+}
+.group-parent11 {
+  position: absolute;
+  top: 165px;
+  left: 0;
+  width: 237px;
+  height: 125px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-font-awesome-5-pro);
+}
+.group-parent10 {
+  position: absolute;
+  top: 115px;
+  left: 230px;
+  width: 406px;
+  height: 290px;
+  font-size: var(--font-size-6xl);
+}
+.recive-email-updates1 {
+  left: 0;
+  font-size: var(--font-size-6xl);
+}
+.group-child9,
+.join1,
+.recive-email-updates1 {
+  position: absolute;
+  top: 0;
+}
+.group-child9 {
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.07);
+  width: 532px;
+  height: 45px;
+}
+.join1 {
+  left: 449px;
+  font-weight: 600;
+}
+.your-email-address-group {
+  position: absolute;
+  top: 11px;
+  left: 24px;
+  width: 485px;
+  height: 23px;
+}
+.rectangle-parent1 {
+  top: 62px;
+  width: 532px;
+  height: 45px;
+}
+.rectangle-parent1,
+.shop2,
+.shop3 {
+  position: absolute;
+  left: 0;
+}
+.shop2 {
+  top: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+}
+.shop3 {
+  top: 57px;
+}
+.collection1,
+.lookbook1,
+.outlet1 {
+  position: absolute;
+  top: 145px;
+  left: 0;
+}
+.collection1,
+.lookbook1 {
+  top: 101px;
+}
+.lookbook1 {
+  top: 185px;
+}
+.about-group,
+.help-group,
+.shop-group {
+  position: absolute;
+  top: 177px;
+  left: 0;
+  width: 76px;
+  height: 208px;
+}
+.about-group,
+.help-group {
+  left: 164px;
+  width: 173px;
+}
+.about-group {
+  left: 425px;
+  width: 107px;
+}
+.footer-child1,
+.recive-email-updates-group {
+  position: absolute;
+  top: 115px;
+  left: 832px;
+  width: 532px;
+  height: 385px;
+}
+.footer-child1 {
+  top: 606px;
+  left: 1px;
+  background-color: var(--color-aliceblue-200);
+  width: 1592px;
+  height: 93px;
+}
+.copyright-20201 {
+  position: absolute;
+  top: 641px;
+  left: 578px;
+  white-space: pre-wrap;
+}
+.footer1 {
+  position: absolute;
+  top: 4777px;
+  left: -1px;
+  width: 1593px;
+  height: 699px;
+}
+.icon6,
+.own-the-day1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.icon6 {
+  width: 1593px;
+  height: 745px;
+  object-fit: cover;
+}
+.own-the-day1 {
+  font-weight: 500;
+}
+.tachen-193 {
+  position: absolute;
+  top: 22px;
+  left: 0;
+  font-size: var(--font-size-61xl);
+}
+.group-child10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 214px;
+  height: 35px;
+}
+.shop-collection1 {
+  position: absolute;
+  top: 4px;
+  left: 26px;
+  font-weight: 500;
+}
+.rectangle-parent2 {
+  position: absolute;
+  top: 147px;
+  left: 0;
+  width: 214px;
+  height: 35px;
+  color: var(--color-white);
+}
+.own-the-day-group,
+.tachen-192 {
+  position: absolute;
+  top: 434px;
+  left: 230px;
+  width: 426px;
+  height: 182px;
+}
+.tachen-192 {
+  top: 4032px;
+  left: -1px;
+  width: 1593px;
+  height: 745px;
+  font-size: var(--font-size-lg);
+}
+.avone-styles1 {
+  position: absolute;
+  top: 0;
+  left: 493px;
+  font-size: var(--font-size-xl);
+}
+.show-womens-dress1 {
+  position: absolute;
+  top: 753px;
+  left: 704px;
+  text-align: right;
+}
+.choose-your-favorite1 {
+  position: absolute;
+  top: 45px;
+  left: 464px;
+}
+.avone-style-child1 {
+  position: absolute;
+  top: 477px;
+  left: 852px;
+  background-color: var(--color-silver);
+  width: 4px;
+  height: 4px;
+}
+.mask-group-icon11 {
+  position: absolute;
+  top: 128px;
+  left: 581px;
+  width: 514px;
+  height: 451px;
+  object-fit: cover;
+}
+.avone-style-child2 {
+  position: absolute;
+  top: 514px;
+  left: 881px;
+  background-color: var(--color-white);
+  width: 227px;
+  height: 281px;
+}
+.avone-style-child3 {
+  position: absolute;
+  top: 780px;
+  left: 705px;
+  background-color: var(--color-gray-200);
+  width: 168px;
+  height: 1px;
+}
+.mask-group-icon12,
+.mask-group-icon13 {
+  position: absolute;
+  top: 536px;
+  left: 906px;
+  width: 227px;
+  height: 281px;
+  object-fit: cover;
+}
+.mask-group-icon13 {
+  top: 215px;
+  left: 0;
+  width: 552px;
+  height: 602px;
+}
+.avone-style1 {
+  top: 3094px;
+  left: 230px;
+  width: 1133px;
+  height: 817px;
+}
+.avone-style1,
+.mens-fashion1,
+.shop-our-new2 {
+  position: absolute;
+  text-align: center;
+}
+.mens-fashion1 {
+  top: 0;
+  left: 492px;
+  font-size: var(--font-size-xl);
+}
+.shop-our-new2 {
+  top: 45px;
+  left: 394px;
+}
+.igure8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 300;
+}
+.group-child11 {
+  position: absolute;
+  top: 12.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 67px;
+  height: 1px;
+}
+.span16 {
+  white-space: pre-wrap;
+}
+.span17 {
+  color: var(--color-firebrick);
+}
+.div10,
+.line-parent6 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+}
+.line-parent6 {
+  top: 52px;
+  left: 0;
+  width: 149px;
+  height: 23px;
+}
+.green-muscle-fit8 {
+  position: absolute;
+  top: 26px;
+  left: 0;
+  font-weight: 600;
+}
+.igure-parent6 {
+  position: absolute;
+  top: 402px;
+  left: 0;
+  width: 225px;
+  height: 75px;
+}
+.group-parent12,
+.icon7 {
+  position: absolute;
+  left: 0;
+  width: 268px;
+}
+.icon7 {
+  top: 0;
+  height: 371px;
+  object-fit: cover;
+}
+.group-parent12 {
+  top: 140px;
+  height: 477px;
+}
+.group-parent13,
+.group-parent14,
+.group-parent15,
+.mens-section1 {
+  position: absolute;
+  top: 140px;
+  left: 580px;
+  width: 268px;
+  height: 477px;
+}
+.group-parent14,
+.group-parent15,
+.mens-section1 {
+  left: 290px;
+}
+.group-parent15,
+.mens-section1 {
+  left: 870px;
+}
+.mens-section1 {
+  top: 2367px;
+  left: 226px;
+  width: 1138px;
+  height: 617px;
+}
+.womens-fashion1 {
+  position: absolute;
+  top: 0;
+  left: 473px;
+  font-size: var(--font-size-xl);
+  text-align: center;
+}
+.igure-parent10,
+.mask-group-icon14 {
+  position: absolute;
+  top: 412px;
+  left: 1px;
+  width: 225px;
+  height: 75px;
+}
+.mask-group-icon14 {
+  top: 3px;
+  width: 268px;
+  height: 371px;
+  object-fit: cover;
+}
+.overlay1,
+.quick-view-cta-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-400);
+  width: 269px;
+  height: 374px;
+}
+.quick-view-cta-item {
+  background-color: var(--color-white);
+  width: 134px;
+  height: 40.5px;
+}
+.quick-view1 {
+  position: absolute;
+  top: 10.5px;
+  left: 35px;
+  font-weight: 500;
+  display: inline-block;
+  width: 92px;
+  height: 17px;
+}
+.eye-icon1,
+.quick-view-cta1 {
+  position: absolute;
+  top: 15.3px;
+  left: 12.7px;
+  width: 19.4px;
+  height: 10.8px;
+}
+.quick-view-cta1 {
+  top: 170.5px;
+  left: 68px;
+  width: 134px;
+  height: 40.5px;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.group-parent16,
+.igure-parent11 {
+  position: absolute;
+  top: 130px;
+  left: 289px;
+  width: 269px;
+  height: 487px;
+}
+.igure-parent11 {
+  top: 409px;
+  left: 0;
+  width: 225px;
+  height: 75px;
+}
+.group-parent17,
+.group-parent18,
+.group-parent19,
+.womens-section1 {
+  position: absolute;
+  top: 133px;
+  left: 580px;
+  width: 268px;
+  height: 484px;
+}
+.group-parent18,
+.group-parent19,
+.womens-section1 {
+  left: 0;
+}
+.group-parent19,
+.womens-section1 {
+  left: 870px;
+}
+.womens-section1 {
+  top: 1639px;
+  left: 226px;
+  width: 1138px;
+  height: 617px;
+}
+.mask-group-icon18,
+.mask-group-icon19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 262.2px;
+  height: 265.2px;
+  object-fit: cover;
+}
+.mask-group-icon19 {
+  left: 287.8px;
+}
+.mask-group-group {
+  position: absolute;
+  top: 311.7px;
+  left: 0;
+  width: 550px;
+  height: 265.2px;
+}
+.mask-group-icon20,
+.mask-group-icon21 {
+  position: absolute;
+  top: 0;
+  left: 581px;
+  width: 552px;
+  height: 579px;
+  object-fit: cover;
+}
+.mask-group-icon21 {
+  top: 2.2px;
+  left: 0;
+  width: 551px;
+  height: 286.8px;
+}
+.catagory-inner,
+.group-parent20 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1133px;
+  height: 579px;
+}
+.catagory-inner {
+  top: 2px;
+  left: 581px;
+  background-color: var(--color-black);
+  width: 552px;
+  height: 574px;
+  opacity: 0.5;
+}
+.catagory-child1 {
+  position: absolute;
+  top: 516px;
+  left: 609px;
+  background-color: var(--color-white);
+  width: 203px;
+  height: 35px;
+}
+.catagory-name1 {
+  position: absolute;
+  top: 520px;
+  left: 633px;
+  font-weight: 500;
+}
+.catagory1,
+.your-logo3 {
+  position: absolute;
+  left: 230px;
+}
+.catagory1 {
+  top: 949px;
+  width: 1133px;
+  height: 579px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.your-logo3 {
+  top: 0;
+  font-size: var(--font-size-9xl);
+}
+.home-shop-lookbook1,
+.search-heart-shopping-cart1 {
+  position: absolute;
+  top: 7px;
+  left: 540px;
+  white-space: pre-wrap;
+}
+.search-heart-shopping-cart1 {
+  top: 12px;
+  left: 1210px;
+  font-family: var(--font-font-awesome-5-pro);
+}
+.icon11 {
+  position: absolute;
+  top: 63px;
+  left: 0;
+  width: 1593px;
+  height: 745px;
+  object-fit: cover;
+}
+.an-exclusive-selection1,
+.new-trend1 {
+  position: absolute;
+  top: 489px;
+  left: 909px;
+  font-weight: 500;
+}
+.an-exclusive-selection1 {
+  top: 618px;
+}
+.collusion1 {
+  position: absolute;
+  top: 507px;
+  left: 909px;
+  font-size: var(--font-size-61xl);
+}
+.hero-section-item {
+  position: absolute;
+  top: 672px;
+  left: 909px;
+  background-color: var(--color-gray-200);
+  width: 147px;
+  height: 35px;
+}
+.discover1 {
+  position: absolute;
+  top: 676px;
+  left: 938px;
+  font-weight: 500;
+  color: var(--color-white);
+  text-align: center;
+}
+.group-child19 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 147px;
+  height: 35px;
+}
+.shop-now1 {
+  position: absolute;
+  top: 4px;
+  left: 24px;
+  font-weight: 500;
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: 672px;
+  left: 1090px;
+  width: 147px;
+  height: 35px;
+  text-align: center;
+  color: var(--color-white);
+}
+.hero-section1 {
+  position: absolute;
+  top: 20px;
+  left: -1px;
+  width: 1593px;
+  height: 808px;
+  font-size: var(--font-size-lg);
+}
+.pages-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  width: 1592px;
+  height: 5472px;
+  mix-blend-mode: multiply;
+}
+.pages-item {
+  position: absolute;
+  top: 62px;
+  left: 781px;
+  background-color: var(--color-white);
+  width: 359px;
+  height: 223px;
+}
+.home-page,
+.mens-fashion2,
+.womens-fashion2 {
+  position: absolute;
+  top: 70px;
+  left: 825px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-black);
+  display: inline-block;
+  width: 229px;
+  height: 48px;
+  cursor: pointer;
+}
+.mens-fashion2,
+.womens-fashion2 {
+  top: 148px;
+  left: 831px;
+  width: 291px;
+  height: 49px;
+}
+.womens-fashion2 {
+  top: 221px;
+  left: 799px;
+  width: 341px;
+  height: 51px;
+}
+.pages-inner {
+  position: absolute;
+  top: 133px;
+  left: 781px;
+  width: 354px;
+  height: 2px;
+  object-fit: contain;
+}
+.pages-child1 {
+  position: absolute;
+  top: 205.5px;
+  left: 782.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 353px;
+  height: 1px;
+}
+.pages {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-white);
+  height: 5472px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray-200);
+  font-family: var(--font-poppins);
+}
